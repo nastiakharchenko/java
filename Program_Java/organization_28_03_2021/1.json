@@ -1,0 +1,7 @@
+{"name":"ABC","address":"Nova,7","employeesCount":15,"creationDate":[2004,10,5],"mfo":654321,"site":"abc.com","commercially":true,"id":2}
+{"name":"BBC","address":"Kromarev,6","employeesCount":10,"creationDate":[2020,12,12],"mfo":123654,"site":"bbc.com","commercially":true,"id":1}
+{"name":"BBC","address":"Pushkov,14","employeesCount":5,"creationDate":[2020,12,12],"mfo":123654,"site":"bbc.com","commercially":true,"id":4}
+{"name":"DCE","address":"Kovalev,8","employeesCount":14,"creationDate":[2019,6,6],"mfo":351642,"site":"dce.com","commercially":false,"id":5}
+{"name":"JFA","address":"Urban,45","employeesCount":20,"creationDate":[2010,1,15],"mfo":897456,"site":"jfa.com","commercially":true,"id":6}
+{"name":"SEV","address":"Sadova,6","employeesCount":15,"creationDate":[2014,7,23],"mfo":496873,"site":"sev.com","commercially":false,"id":7}
+{"name":"TRC","address":"Sadova,4","employeesCount":8,"creationDate":[2017,8,4],"mfo":543261,"site":"trc.com","commercially":false,"id":3}

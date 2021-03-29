@@ -1,0 +1,1 @@
+--module-path C:\javafx-sdk-16\lib --add-modules=javafx.controls,javafx.fxml && java --module-path C:\javafx-sdk-16\lib --add-modules=javafx.controls,javafx.fxml Main

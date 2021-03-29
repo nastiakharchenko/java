@@ -1,0 +1,11 @@
+name;commercially;employeesCount;creationDate;mfo;site;address
+BBC;1;10;12.12.2020;123654;bbc.com;Kromarev,6
+ABC;1;15;05.10.2004;654321;abc.com;Nova,7
+TRC;false;8;04.08.2017;543261;trc.com;Sadova,4
+BBC;true;5;12.12.2020;123654;bbc.com;Pushkov,14
+DCE;0;14;06.06.2019;351642;dce.com;Kovalev,8
+FOM;;4;05.04.2008;613452;fom.com;Dihterov,2
+ECD;1;18;25.11.2017;;ecd.com;Nova,18
+KOL;0;1;30.05.2018;243651;kol.com;
+JFA;true;20;15.01.2010;897456;jfa.com;Urban,45
+SEV;0;15;23.07.2014;496873;sev.com;Sadova,6
